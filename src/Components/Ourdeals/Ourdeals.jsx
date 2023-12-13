@@ -20,10 +20,10 @@ import Sectiontitle from "../Sectiontitle/Sectiontitle";
 
 const Ourdeals = () => {
   return (
-    <section className="my-5 min-h-screen">
+    <section className="my-5 max-h-screen">
       <Sectiontitle
-        heading={"Let's Explore"}
-        subHeading={"Our Packages:"}
+        heading={"Our Packages:"}
+        subHeading={"Let's Explore"}
       ></Sectiontitle>
       <Swiper
         effect={"coverflow"}

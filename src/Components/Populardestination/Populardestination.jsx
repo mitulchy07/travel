@@ -63,33 +63,33 @@ const Populardestination = () => {
           <h3 className="text-4xl text-white -mt-16 p-4 text-bold">Munich</h3>
         </SwiperSlide>
         <SwiperSlide onClick={handleClick} className="element">
-          <img src={img2}></img>
+          <img src={img2} className="rounded-xl"></img>
           <h3 className="text-4xl text-white -mt-16 p-4 text-bold">
             Liberty Island
           </h3>
         </SwiperSlide>
         <SwiperSlide onClick={handleClick} className="element">
-          <img src={img3}></img>
+          <img src={img3} className="rounded-xl"></img>
           <h3 className="text-4xl text-white -mt-16 p-4 text-bold">Paris</h3>
         </SwiperSlide>
         <SwiperSlide onClick={handleClick} className="element">
-          <img src={img4}></img>
+          <img src={img4} className="rounded-xl"></img>
           <h3 className="text-4xl text-white -mt-16 p-4 text-bold">Monaco</h3>
         </SwiperSlide>
         <SwiperSlide onClick={handleClick} className="element">
-          <img src={img5}></img>
+          <img src={img5} className="rounded-xl"></img>
           <h3 className="text-4xl text-white -mt-16 p-4 text-bold">
             Los Angeles
           </h3>
         </SwiperSlide>
         <SwiperSlide onClick={handleClick} className="element">
-          <img src={img6}></img>
+          <img src={img6} className="rounded-xl"></img>
           <h3 className="text-4xl text-white -mt-16 p-4 text-bold">
             NewYouk City
           </h3>
         </SwiperSlide>
         <SwiperSlide onClick={handleClick} className="element">
-          <img src={img7}></img>
+          <img src={img7} className="rounded-xl"></img>
           <h3 className="text-4xl text-white -mt-16 p-4 text-bold">Delhi</h3>
         </SwiperSlide>
       </Swiper>
