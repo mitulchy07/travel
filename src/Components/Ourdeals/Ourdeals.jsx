@@ -20,7 +20,7 @@ import Sectiontitle from "../Sectiontitle/Sectiontitle";
 
 const Ourdeals = () => {
   return (
-    <section className="my-5 max-h-screen">
+    <section className="my-5">
       <Sectiontitle
         heading={"Our Packages:"}
         subHeading={"Let's Explore"}
@@ -63,11 +63,13 @@ const Ourdeals = () => {
             </div>
           </div>
         </SwiperSlide>
+
         <SwiperSlide>
           <div className="card w-auto glass p-5">
             <figure>
               <img className="rounded-xl" src={img2} alt="car!" />
             </figure>
+
             <div className="card-body">
               <h2 className="card-title justify-center md:text-4xl text-black text-bold">
                 Standard Package
@@ -76,9 +78,14 @@ const Ourdeals = () => {
                 Comfortable travel, guided tours, and mid-range accommodations.
               </p>
               <div className="card-actions justify-center">
-                <button className="btn bg-lime-600 text-black">
-                  Book now!
-                </button>
+                <div className="indicator">
+                  <span className="indicator-item badge bg-lime-200 text-black uppercase">
+                    Best Deal
+                  </span>
+                  <button className="btn bg-lime-600 text-black">
+                    Book now!
+                  </button>
+                </div>
               </div>
             </div>
           </div>
