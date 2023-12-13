@@ -79,7 +79,7 @@ const Ourdeals = () => {
               </p>
               <div className="card-actions justify-center">
                 <div className="indicator">
-                  <span className="indicator-item badge bg-lime-200 text-black uppercase">
+                  <span className="indicator-item badge bg-lime-200 text-black uppercase  ">
                     Best Deal
                   </span>
                   <button className="btn bg-lime-600 text-black">
