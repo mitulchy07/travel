@@ -1,0 +1,194 @@
+[
+    {
+        "id": 1,
+        "destination": "Paris",
+        "country": "France",
+        "description": "Known as the 'City of Light', famous for its food, art and fashion",
+        "estimated_travel_cost": "$1500",
+        "popular_dish": "Croissant",
+        "reviews": [
+            {"user": "John", "rating": 5, "comment": "Amazing city with rich history!"},
+            {"user": "Jane", "rating": 4, "comment": "Loved the food and the museums!"}
+        ]
+    },
+    {
+        "id": 2,
+        "destination": "New York City",
+        "country": "USA",
+        "description": "The city that never sleeps, home to Times Square, Central Park and the Statue of Liberty",
+        "estimated_travel_cost": "$2000",
+        "popular_dish": "Pizza",
+        "reviews": [
+            {"user": "Alex", "rating": 5, "comment": "There's always something to do in NYC!"},
+            {"user": "Sam", "rating": 4, "comment": "Great food and amazing skyline!"}
+        ]
+    },
+    {
+        "id": 3,
+        "destination": "Rome",
+        "country": "Italy",
+        "description": "Historic city with landmarks such as the Colosseum, Roman Forum and Vatican",
+        "estimated_travel_cost": "$1200",
+        "popular_dish": "Pasta Carbonara",
+        "reviews": [
+            {"user": "Mike", "rating": 5, "comment": "Incredible historical sites!"},
+            {"user": "Anna", "rating": 4, "comment": "Delicious food and friendly people!"}
+        ]
+    },
+    {
+        "id": 4,
+        "destination": "Tokyo",
+        "country": "Japan",
+        "description": "A bustling metropolis known for its modern architecture, technology and sushi",
+        "estimated_travel_cost": "$1800",
+        "popular_dish": "Sushi",
+        "reviews": [
+            {"user": "Lisa", "rating": 5, "comment": "Fascinating mix of old and new!"},
+            {"user": "Tom", "rating": 4, "comment": "Amazing food and culture!"}
+        ]
+    },
+    {
+        "id": 5,
+        "destination": "Sydney",
+        "country": "Australia",
+        "description": "Famous for its harbourfront Sydney Opera House and Bondi Beach",
+        "estimated_travel_cost": "$2200",
+        "popular_dish": "Barbecued Snags",
+        "reviews": [
+            {"user": "Kim", "rating": 5, "comment": "Beautiful beaches and great weather!"},
+            {"user": "Nick", "rating": 4, "comment": "Loved the outdoor lifestyle!"}
+        ]
+    },
+    {
+        "id": 6,
+        "destination": "Cape Town",
+        "country": "South Africa",
+        "description": "Known for its stunning landscapes, Table Mountain and Robben Island",
+        "estimated_travel_cost": "$1800",
+        "popular_dish": "Biltong",
+        "reviews": [
+            {"user": "Sarah", "rating": 4.5, "comment": "Beautiful city with diverse culture!"},
+            {"user": "Peter", "rating": 4, "comment": "Loved the landscapes and wildlife!"}
+        ]
+    },
+    {
+        "id": 7,
+        "destination": "Barcelona",
+        "country": "Spain",
+        "description": "Famous for its unique architecture, vibrant nightlife and delicious cuisine",
+        "estimated_travel_cost": "$1300",
+        "popular_dish": "Paella",
+        "reviews": [
+            {"user": "Rachel", "rating": 5, "comment": "Amazing architecture and great food!"},
+            {"user": "David", "rating": 4, "comment": "Enjoyed the beach and the nightlife!"}
+        ]
+    },
+    {
+        "id": 8,
+        "destination": "Istanbul",
+        "country": "Turkey",
+        "description": "A city straddling Europe and Asia, with rich history and diverse culture",
+        "estimated_travel_cost": "$1100",
+        "popular_dish": "Kebab",
+        "reviews": [
+            {"user": "Mohamed", "rating": 5, "comment": "Incredible historical sites and tasty food!"},
+            {"user": "Aisha", "rating": 4, "comment": "Loved the mix of cultures and the markets!"}
+        ]
+    },
+    {
+        "id": 9,
+        "destination": "Rio de Janeiro",
+        "country": "Brazil",
+        "description": "Known for its carnival, Christ the Redeemer statue and Copacabana beach",
+        "estimated_travel_cost": "$1600",
+        "popular_dish": "Feijoada",
+        "reviews": [
+            {"user": "Carlos", "rating": 5, "comment": "Vibrant city with beautiful beaches!"},
+            {"user": "Maria", "rating": 4, "comment": "Loved the music and the food!"}
+        ]
+    },
+    {
+        "id": 10,
+        "destination": "London",
+        "country": "UK",
+        "description": "Home to iconic landmarks like the Big Ben, London Eye and Buckingham Palace",
+        "estimated_travel_cost": "$2000",
+        "popular_dish": "Fish and Chips",
+        "reviews": [
+            {"user": "Emma", "rating": 5, "comment": "So much history and great museums!"},
+            {"user": "Harry", "rating": 4, "comment": "Enjoyed the parks and the pubs!"}
+        ]
+    },
+    {
+        "id": 11,
+        "destination": "Bangkok",
+        "country": "Thailand",
+        "description": "Famous for its vibrant street life, cultural landmarks and bustling markets",
+        "estimated_travel_cost": "$1200",
+        "popular_dish": "Pad Thai",
+        "reviews": [
+            {"user": "Liam", "rating": 5, "comment": "Amazing street food and friendly people!"},
+            {"user": "Sophia", "rating": 4, "comment": "Loved the temples and the markets!"}
+        ]
+    },
+    {
+        "id": 12,
+        "destination": "Dubai",
+        "country": "UAE",
+        "description": "Known for luxury shopping, ultramodern architecture and a lively nightlife scene",
+        "estimated_travel_cost": "$2200",
+        "popular_dish": "Shawarma",
+        "reviews": [
+            {"user": "Ahmed", "rating": 5, "comment": "Incredible skyline and great shopping!"},
+            {"user": "Fatima", "rating": 4, "comment": "Loved the desert safari and the food!"}
+        ]
+    },
+    {
+        "id": 13,
+        "destination": "Singapore",
+        "country": "Singapore",
+        "description": "A global financial centre with a tropical climate and multicultural population",
+        "estimated_travel_cost": "$1800",
+        "popular_dish": "Chilli Crab",
+        "reviews": [
+            {"user": "Muhammad", "rating": 5, "comment": "Amazing food and friendly people!"},
+            {"user": "Nur", "rating": 4, "comment": "Loved the food and the shopping!"}
+        ]
+    },
+    {
+        "id": 14,
+        "destination": "Seoul",
+        "country": "South Korea",
+        "description": "A city known for its modern skyscrapers, pop culture and street food",
+        "estimated_travel_cost": "$1500",
+        "popular_dish": "Bibimbap",
+        "reviews": [
+            {"user": "Min", "rating": 5, "comment": "Amazing food and friendly people!"},
+            {"user": "Ji", "rating": 4, "comment": "Loved the shopping and the nightlife!"}
+        ]
+    },
+    {
+        "id": 15,
+        "destination": "Buenos Aires",
+        "country": "Argentina",
+        "description": "Known for its tango dancing, steak and football",
+        "estimated_travel_cost": "$1600",
+        "popular_dish": "Asado",
+        "reviews": [
+            {"user": "Santiago", "rating": 5, "comment": "Amazing food and friendly people!"},
+            {"user": "Valentina", "rating": 4, "comment": "Loved the food and the nightlife!"}
+        ]
+    },
+    {
+        "id": 16,
+        "destination": "Los Angeles",
+        "country": "USA",
+        "description": "Known for its Hollywood entertainment industry, beaches and theme parks",
+        "estimated_travel_cost": "$2000",
+        "popular_dish": "Burger",
+        "reviews": [
+            {"user": "Noah", "rating": 5, "comment": "Amazing food and friendly people!"},
+            {"user": "Emma", "rating": 4, "comment": "Loved the beaches and the nightlife!"}
+        ]
+    }
+]
